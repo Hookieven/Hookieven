@@ -1,16 +1,16 @@
-## Hi there 👋
+# Emiliano Oses
+Técnico en Informática Personal y Profesional
+Estudiante de Ingeniería en Sistemas — UTN FRLP
 
-<!--
-**Hookieven/Hookieven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Interesado en desarrollo backend, bases de datos y redes.
 
-Here are some ideas to get you started:
+Tengo experiencia trabajando en proyectos institucionales utilizando C# y SQL, además de desarrollar proyectos personales relacionados con software, automatización y videojuegos en Unity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+* C#
+* SQL
+* Windows & Linux
+* Backend
+* Bases de datos
+* Unity
